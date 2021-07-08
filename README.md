@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @StephenWR
+- 👋 Hi, I’m @StephenWR - fullname Stephen Wadsworth
 - 👀 I’m interested in using Arduinos in Model Railways to control trains and layout features - block detection, signaling, points / turnouts control
 - 🌱 I’m currently learning more programming as I need new features
 - 💞️ I’m looking to collaborate on anything to do with JMRI / CMRI / Arduino / miniature webcam views of n-gauge model railways
